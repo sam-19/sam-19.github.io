@@ -1,5 +1,8 @@
 # Lääketieteellisten kuvantamistutkimusten katselin
 
+* TOC
+{:toc}
+
 ## 1. Esittely
 
 [MEDigi-hanke](https://www.medigi.fi/) on valtakunnallinen lääketieteen alojen koulutuksen digitalisointiin, harmonisointiin ja modernisointiin tähtäävä projekti. Tämä lääketieteellisten kuvantamistutkimusten web-katselinsovellus on yksi osa MEDigi-hankkeen kuvantamisalojen kokonaisuutta. Itä-Suomen yliopisto koordinoi kuvantamisalojen osuutta hankkeessa.
