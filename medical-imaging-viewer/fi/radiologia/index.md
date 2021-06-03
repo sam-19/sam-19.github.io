@@ -3,7 +3,7 @@ layout: default
 title: Radiologia
 parent: Suomeksi
 nav_order: 1
-has_children: true
+has_children: false
 ---
 
 <h1>Radiologia</h1>
