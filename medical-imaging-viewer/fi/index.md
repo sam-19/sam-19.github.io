@@ -26,4 +26,4 @@ Web-katselin on jaettu erillisiin moduuleihin, jotka kukin vastaavat tietyn tyyp
 
 ## 3. Käyttöopas
 
-Käyttöpas löytyy [täältä](käyttöpas/). Katselimen [käyttäjille](käyttöopas/käyttäjän-opas) ja materiaalin [julkaisijoille](käyttöopas/julkaisijan-opas/) on omat oppaansa.
+Käyttöpas löytyy [täältä](käyttöopas/). Katselimen [käyttäjille](käyttöopas/käyttäjän-opas) ja materiaalin [julkaisijoille](käyttöopas/julkaisijan-opas/) on omat oppaansa.
