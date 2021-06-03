@@ -2,6 +2,7 @@
 layout: default
 title: Radiologia
 parent: Käyttäjän opas
+grand_parent: Suomeksi
 nav_order: 1
 has_children: false
 ---
