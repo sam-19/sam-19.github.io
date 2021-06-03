@@ -41,20 +41,18 @@ Sekä oikeassa ylänurkassa:
 
 Valitun käynnin tutkimukset aukeavat vasemmalle sivupalkkiin. Jos mahdollista, sivupalkkiin aukeaa myös esikatselukuva itse tutkimuksesta. Tutkimuksen klikkaaminen avaa sen katselunäkymään; toisen tutkimuksen klikkaaminen sulkee edellisen ja avaa klikatun tutkimuksen.
 
-![single-image](single-image.png){:height="480px"}
+![single-image](single-image.png)
 
 Jos uutta tutkimusta klikataan Control-nappi pohjassa, aukeaa klikattu tutkimus edellisen rinnalle. Jos tutkimusta klikataa Shift-nappi pohjassa, aukeavat myös kaikki aktiivisen ja klikatun tutkimuksen väliin jäävät tutkimuset.
 
-![multiple-images](multiple-images.png){:height="480px"}
+![multiple-images](multiple-images.png)
 
 Tutkimusten avautumisjärjestystä on mahdollista vaihtaa muuttamalla niiden järjestystä sivupalkissa (raahaamalla kuvakkeita ylös tai alas). Vaihtoehtoisesti kuvat on mahdollista sijoitella ripustelunäkymässä manuaalisesti valmiiseen ruudukkoon raahaamalla ne haluttuun ruutuun.
 
-![drag-image](drag-image.png){:height="480px"}
+![drag-image](drag-image.png)
 
-Harvoin ripustellun kuvan lataaminen epäonnistuu, jolloin ruutuun tulee seuraava ilmoitus:
-
-![medigi-radiology-loading-failed-fi](uploads/8106d6c335bb0cd8df7e6699212941c6/medigi-radiology-loading-failed-fi.png)
+Harvoin ripustellun kuvan lataaminen epäonnistuu, jolloin ruutuun tulee ilmoitus _"Avaaminen epäonnistui, aktivoi kuvaus sivupalkista"_.
 
 Tällöin kyseisessä kuvassa näkyy sivupalkissa häiriökuvake. Kuvauksen saa näkyviin klikkaamalla kuvausta sivupalkissa (muista painaa Control pohjaan, jos ole jo avannut muita kuvia!).
 
-![medigi-radiology-loading-failed-sidebar](uploads/0fea6087f89e75bb98272af2b54398c4/medigi-radiology-loading-failed-sidebar.png)
+![loading-failed](loading-failed.png)
