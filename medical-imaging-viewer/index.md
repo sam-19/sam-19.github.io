@@ -2,6 +2,7 @@
 layout: default
 title: Medical Imaging Study Viewer
 nav_order: 1
+has_children: true
 ---
 
 ## Medical Imaging Study Viewer documentation
