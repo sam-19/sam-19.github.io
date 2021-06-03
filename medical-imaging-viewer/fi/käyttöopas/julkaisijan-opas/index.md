@@ -1,3 +1,11 @@
+---
+layout: default
+title: Julkaisijan opas
+parent: Suomeksi
+nav_order: 2
+has_children: false
+---
+
 <h1>Julkaisijan opas</h1>
 
 * TOC
