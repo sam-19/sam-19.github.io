@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Julkaisijan opas
-parent: Suomeksi
+title: Julkaisija
+parent: Käyttöopas
 nav_order: 2
 has_children: false
 ---
