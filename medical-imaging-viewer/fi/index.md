@@ -10,7 +10,7 @@ has_children: true
 * TOC
 {:toc}
 
-## 1. Esittely
+## Esittely
 
 [MEDigi-hanke](https://www.medigi.fi/) on valtakunnallinen lääketieteen alojen koulutuksen digitalisointiin, harmonisointiin ja modernisointiin tähtäävä projekti. Tämä lääketieteellisten kuvantamistutkimusten web-katselinsovellus on yksi osa MEDigi-hankkeen kuvantamisalojen kokonaisuutta. Itä-Suomen yliopisto koordinoi kuvantamisalojen osuutta hankkeessa.
 
@@ -18,7 +18,7 @@ Web-katselintyökalun (myöhemmin web-katselin tai vain katselin) tarkoitus on t
 
 Web-katselimen ominaisuudet on pyritty kehittämään vastaamaan toiminnaltaan mahdollisimman hyvin ammattimaisten työkalujen ominaisuuksia. Täydellistä vastaavuutta on kuitenkin käytännössä mahdotonta saavuttaa, eikä se olisi mielekästäkään; tässä vaiheessa tavoitteeksi on asetettu lääketieteen alojen peruskoulutuksen kannalta oleellisen toiminnallisuuden turvaaminen. Katselinta ei ole tarkoitettu eikä sitä tule käyttää diagnostiseen työhön.
 
-## 2. Web-katselimen ominaisuudet
+## Web-katselimen ominaisuudet
 
 Web-katselin on jaettu erillisiin moduuleihin, jotka kukin vastaavat tietyn tyyppisten kuvantamistutkimusten tarkastelusta. Moduulien kehitysaste vaihtelee pitkälle hiotusta varhaisessa kehittelyssä olevaan.
 * Tuotannossa - ominaisuus on otettu yleiseen käyttöön.
@@ -34,6 +34,6 @@ Web-katselin on jaettu erillisiin moduuleihin, jotka kukin vastaavat tietyn tyyp
 | 2.2 [Kliininen fysiologia](kliininen-fysiologia/) |  2.2.1 Lepo-EKG | Kehittelyvaiheessa |
 | 2.3 [Kliininen neurofysiologia](kliininen-neurofysiologia/) |  2.3.1 Polikliininen EEG <br /> 2.3.2 Suppea yöpolygrafia | Kehittelyvaiheessa <br /> Suunnitteluvaiheessa |
 
-## 3. Käyttöopas
+## Käyttöopas
 
 Käyttöpas löytyy [täältä](käyttöopas/). Katselimen [käyttäjille](käyttöopas/käyttäjän-opas) ja materiaalin [julkaisijoille](käyttöopas/julkaisijan-opas/) on omat oppaansa.
