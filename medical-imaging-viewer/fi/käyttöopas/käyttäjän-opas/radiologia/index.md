@@ -39,7 +39,10 @@ Sekä oikeassa ylänurkassa:
 
 ## 3. Sivupalkki
 
-Valitun käynnin tutkimukset aukeavat vasemmalle sivupalkkiin. Jos mahdollista, sivupalkkiin aukeaa myös esikatselukuva itse tutkimuksesta. Tutkimuksen klikkaaminen avaa sen katselunäkymään; toisen tutkimuksen klikkaaminen sulkee edellisen ja avaa klikatun tutkimuksen.
+Valitun käynnin tutkimukset aukeavat vasemmalle sivupalkkiin. Jos mahdollista, sivupalkkiin aukeaa myös esikatselukuva itse tutkimuksesta. Sivupalkin toiminta on suunniteltu vastaamaan mahdollisimman läheisesti yleistä tiedostojärjestelmän toimintaa:
+- Jos yhtään tutkimusta ei vielä ole auki, tutkimuksen klikkaaminen avaa sen katselunäkymään.
+- Toisen tutkimuksen klikkaaminen sulkee edellisen ja avaa klikatun tutkimuksen.
+- Jos useita kuvia on näkyvissä, aktiivisen kuvan klikkaaminen piilottaa mut kuvat ja jättää klikatun kuvan näkyviin.
 
 ![single-image](single-image.png)
 
@@ -50,6 +53,8 @@ Jos uutta tutkimusta klikataan Control-nappi pohjassa, aukeaa klikattu tutkimus 
 Tutkimusten avautumisjärjestystä on mahdollista vaihtaa muuttamalla niiden järjestystä sivupalkissa (raahaamalla kuvakkeita ylös tai alas). Vaihtoehtoisesti kuvat on mahdollista sijoitella ripustelunäkymässä manuaalisesti valmiiseen ruudukkoon raahaamalla ne haluttuun ruutuun.
 
 ![drag-image](drag-image.png)
+
+Ripustelutilassakin kuvia voi piilottaa ja palauttaa takaisin näkyviin aikaisempaan paikkaansa klikkaamalla sivupalkista (Control-nappi pohjassa, jos mutakin kuvia on näkyvissä.
 
 Harvoin ripustellun kuvan lataaminen epäonnistuu, jolloin ruutuun tulee ilmoitus _"Avaaminen epäonnistui, aktivoi kuvaus sivupalkista"_.
 
