@@ -18,7 +18,7 @@ Tämä on MEDigi-katselimen peruskäyttöopas, jossa neuvotaan sen käyttöä ku
 
 [Julkaisijan opas](../julkaisijan-opas) ja [kehittäjän opas](/medical-imaging-viewer/en/developer-guide) löytyvät omista osioistaan.
 
-## 1. Katselimen avaaminen
+## Katselimen avaaminen
 
 Katselin on javascript-sovellus, jonka käyttöön tarvitaan moderni, javascriptiä tukeva web-selain. Katselin ei tue Internet Explorer -selainta. Päästäksesi käyttämään katselinta, avaa verkkoselaimellasi internetsivu, jolle se on sisällytetty. Sivu voi periaatteessa myös omalla koneellasi HTML-tiedosto, mutta joidenkin selainten tietosuojaominaisuudet rajoittavat merkittävästi paikallisiin HTML-tiedostoihin sisällytettyjen javascript-ohjelmien toiminnallisuutta.
 
@@ -30,7 +30,7 @@ Vasemmalla yläkulmassa näkyy pudotusvalikko, josta voi valita ladattuja kuvant
 
 Vasemmalla yläkulmassa näkyvästä hammasratas-napista aukeaa asetusvalikko. Asetusvalikosta on mahdollista suurentaa katselin koko ruudulle, sekä avata näkyviin yleiset sekä moduulikohtaiset asetukset. Näihin asetuksiin tehtävät muutokset tallentuvat evästeenä kyseiselle laitteelle, jos evästeet on sallittu. Evästeet ja niihin tallennetut asetukset ovat aina sivusto-, laite- ja selainkohtaisia (ts. ne toimivat vain samalla laitteella, samalla selaimella ja samalla sivustolla).
 
-## 2. Yleisasetukset
+## Yleisasetukset
 
 ![medigi-viewer-settings-screen-fi](uploads/c328aeb35d3100ff5c11c621083badf2/medigi-viewer-settings-screen-fi.png)
 
@@ -40,11 +40,11 @@ Näyttöasetuksista voit säätää käyttämäsi näytön PPI-arvoa (Pixels Per
 
 
 
-## 3. Tiedostojen avaaminen
+## Tiedostojen avaaminen
 
 ...
 
-## 4. Käyntivalikko
+## Käyntivalikko
 
 Ladatut tutkimukset löytyvät omien käyntiensä alta käyntivalikosta vasemmasta yläreunasta. Valikko aukeaa ja sulkeutuu klikkaamalla (tai hiiren pois viemällä). Tutkimukset on jaoteltu tutkimustyyppien mukaisesti:
 
