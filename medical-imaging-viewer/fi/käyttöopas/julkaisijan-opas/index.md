@@ -16,7 +16,7 @@ Jos ohjelmalla avataan enemmän kuin yksittäinen tiedosto, täytyy tiedostot j�
       - kuvantamistiedostot
    📁 Tutkimus #2
       - kuvantamistiedostot
-📁 Käynti #2 (kansio)
+📁 Käynti #2
    📁 Tutkimus #3
       - tutkimustiedostot
 ```
@@ -30,9 +30,9 @@ Yksittäisillä sisäkkäisillä kansioilla ei ole väliä, ohjelma "romahduttaa
    📁 Jokukansio 2
       📁 Jokukansio 3
          📁 Käynti #1
-            📁 Tutkimus #1 (kansio)
+            📁 Tutkimus #1
                 - ...
-         📁 Käynti #2 (kansio)
+         📁 Käynti #2
              - ...
 ```
 Sama pätee sisäkansioihin, eli tutkimuskokonaisuuden lataamiseen ei vaikuta jos yksittäisiä tutkimuksia on sisäkkäisten kansioiden alla:
@@ -76,13 +76,13 @@ Nämä tutkimukset ohjelma tulkitsisi siten, että pudotusvalikon käynnin nimek
 Jos käynnillä on useampia eri modaliteetin tutkimuksia, ei näitä tarvitse jaotella omiin hakemistoihinsa; ohjelma tunnistaa modaliteetit automaattisesti:
 ```
 📁 Päivystyskäynti
-   📁 Lepo-EKG (kansio)
+   📁 Lepo-EKG
       - dicomekgtiedosto
-   📁 Natiivi-thorax ap (kansio)
+   📁 Natiivi-thorax ap
       - dicomkuvatiedosto
-   📁 Natiivi-thorax sivu (kansio)
+   📁 Natiivi-thorax sivu
       - dicomkuvatiedosto
-   📁 Pään natiivi-CT (kansio)
+   📁 Pään natiivi-CT
       - dicomkuvatiedosto001
       - dicomkuvatiedosto002
       - ...
