@@ -9,7 +9,7 @@ Radiologian moduulilla on mahdollista tarkastella DICOM-muotoisia radiologisia k
 
 ## 2. Työkalurivi
 
-![medigi-toolbar](uploads/7db613ac9a101620ff140deb0c18cad2/medigi-toolbar.png)
+![toolbar](toolbar.png)
 
 Työkalurivin painikkeet eivät ole käytettävissä, ennen kuin jokin kuvantamistutkimus on avattu tarkasteltavaksi. Riippuen kontekstista, kaikkia painikkeita ei välttämättä ole käytettävissä. Työkalupainikkeet on jaettu toiminnallisesti ryhmiin, ja vain yksi työkalu per ryhmä voi olla samalla kertaa aktiivisena; työkalun aktivointi kytkee automaattisesti muut saman ryhmän työkalut pois päältä. Aktiivinen työkalu toimii aina hiiren vasenta nappia painamalla ja hiirtä liikuttamalla nappi pohjassa. Työkalurivillä on myös kolme painikeryhmää, jotka klikattaessa avaavat nkyville ryhmään kuuluvat työkalupainikkeet.
 
