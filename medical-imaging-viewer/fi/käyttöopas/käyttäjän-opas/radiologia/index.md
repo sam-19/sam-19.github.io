@@ -1,3 +1,11 @@
+---
+layout: default
+title: Radiologia
+parent: Käyttäjän opas
+nav_order: 1
+has_children: false
+---
+
 <h1>Käyttäjän opas - radiologia</h1>
 
 * TOC
