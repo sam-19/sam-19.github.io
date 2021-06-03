@@ -1,3 +1,10 @@
+---
+layout: default
+title: Contributors
+nav_order: 3
+has_children: false
+---
+
 <h1>Contributors and external resources</h1>
 
 * TOC
