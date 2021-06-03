@@ -14,25 +14,25 @@ Radiologian moduulilla on mahdollista tarkastella DICOM-muotoisia radiologisia k
 Työkalurivin painikkeet eivät ole käytettävissä, ennen kuin jokin kuvantamistutkimus on avattu tarkasteltavaksi. Riippuen kontekstista, kaikkia painikkeita ei välttämättä ole käytettävissä. Työkalupainikkeet on jaettu toiminnallisesti ryhmiin, ja vain yksi työkalu per ryhmä voi olla samalla kertaa aktiivisena; työkalun aktivointi kytkee automaattisesti muut saman ryhmän työkalut pois päältä. Aktiivinen työkalu toimii aina hiiren vasenta nappia painamalla ja hiirtä liikuttamalla nappi pohjassa. Työkalurivillä on myös kolme painikeryhmää, jotka klikattaessa avaavat nkyville ryhmään kuuluvat työkalupainikkeet.
 
 Työkalupainikkeet vasemmalta oikealle lueteltuna:
-- ![medigi-tool-pan](uploads/dfe08ba40eac2357dc8ba6a0c6078986/medigi-tool-pan.png) _Liikuttelutyökalu:_ Liikuttaa kuvaa pysty- ja vaakasuunnassa.
-- ![medigi-tool-zoom](uploads/177fa38b49ba7e91767ada364534ec05/medigi-tool-zoom.png) _Suurennuslasi:_ Liikuttaa kuvaa syvyyssuunnassa, ts. lähentää ja loitontaa sitä.
+- ![pan](pan.svg){:height="16px" width="16px"} _Liikuttelutyökalu:_ Liikuttaa kuvaa pysty- ja vaakasuunnassa.
+- ![zoom](zoom.svg) _Suurennuslasi:_ Liikuttaa kuvaa syvyyssuunnassa, ts. lähentää ja loitontaa sitä.
 - ![scroll](scroll.svg){:height="16px" width="16px"} _Pakan selaus:_ Selaa kuvapakkaa, ts. näyttää järjestyksessä pakan seuraavan tai edellisen kuvan (toimii ainoastaan kuvapakoilla).
-- ![medigi-tool-crosshairs](uploads/4c3853be3440e445757221de4ec5bf8c/medigi-tool-crosshairs.png) _Pakan kohdennus:_ Kohdentaa samasta kuvauksesta saatujen kuvapakkojen leikkeet samaan anatomiseen kohtaan (toimii ainoastaan kuvapakoilla).
-- ![medigi-tool-orientation](uploads/b961c8381b32706bc10277218d1e90a6/medigi-tool-orientation.png) _Kuvan suuntaus (työkaluryhmä):_
+- ![crosshairs](crosshairs.svg){:height="16px" width="16px"} _Pakan kohdennus:_ Kohdentaa samasta kuvauksesta saatujen kuvapakkojen leikkeet samaan anatomiseen kohtaan (toimii ainoastaan kuvapakoilla).
+- ![orientation](orientation.svg){:height="16px" width="16px"} _Kuvan suuntaus (työkaluryhmä):_
   - Kierrä vastapäivään.
   - Kierrä myötäpäivään.
   - Käännä vaakasuunnassa.
   - Käännä pystysuunnassa.
-- ![medigi-tool-measurement](uploads/02a0a1b6e4f00bd5a72dd39a70dac4fc/medigi-tool-measurement.png) _Mittaustyökalut (työkaluryhmä):_
+- ![measure](measure.svg){:height="16px" width="16px"} _Mittaustyökalut (työkaluryhmä):_
   - Välimatkan mittaus.
   - Pinta-alan mittaus (sisältää myös HU-arvon)
-- ![medigi-tool-invert](uploads/975f9c4a2f0a4cbf6321032d19e54032/medigi-tool-invert.png) _Käänteinen ikkunointi:_ Kääntää kuvan ikkunoinnin päinvastaiseksi (ns. invertoi kuvan).
+- ![invert](invert.svg){:height="16px" width="16px"} _Käänteinen ikkunointi:_ Kääntää kuvan ikkunoinnin päinvastaiseksi (ns. invertoi kuvan).
 - _Ikkunoinnin säätäminen:_ Säätää kuvan ikkunointia hiiren liikkeiden mukaisesti.
-- ![medigi-tool-arrangement](uploads/9e5a1887643c174a3487d157cf654301/medigi-tool-arrangement.png) _Asettelutyökalut (työkaluryhmä):_
+- ![layout](layout.svg){:height="16px" width="16px"} _Asettelutyökalut (työkaluryhmä):_
   - Automaattinen asettelu.
   - 2x2 ripustelu (manuaalinen asettelu).
-- ![medigi-tool-link](uploads/4c1a702951863c8aacbae694ed856a1c/medigi-tool-link.png) _Kytke kaikki kuvapakat:_ Kytkee yhteen tai poistaa kytkennän kaikista auki olevista kuvapakoista.
-- ![medigi-tool-reset](uploads/c738794fc335cf4178e6247e5b4757a0/medigi-tool-reset.png) _Palauta alkuperäinen näkymä:_ Palauttaa kaikkien aktiivisten kuvien kuvanäkymät alkuperäiseen tilaansa, ts. kumoaa liikuttelu-, suurennuslasi- ja ikkunointityökaluilla tehdyt muutokset.
+- ![link](link.svg){:height="16px" width="16px"} _Kytke kaikki kuvapakat:_ Kytkee yhteen tai poistaa kytkennän kaikista auki olevista kuvapakoista.
+- ![reset](reset.svg){:height="16px" width="16px"} _Palauta alkuperäinen näkymä:_ Palauttaa kaikkien aktiivisten kuvien kuvanäkymät alkuperäiseen tilaansa, ts. kumoaa liikuttelu-, suurennuslasi- ja ikkunointityökaluilla tehdyt muutokset.
 
 Sekä oikeassa ylänurkassa:
 - _Asetukset:_ Koko näytön tila sekä radiologianäkymän asetukset ja yleiset asetukset.
