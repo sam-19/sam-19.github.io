@@ -1,6 +1,7 @@
 # Radiologia
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 ## 1. Yleistä
 
