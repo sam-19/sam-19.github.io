@@ -58,6 +58,6 @@ Ripustelutilassakin kuvia voi piilottaa ja palauttaa takaisin näkyviin aikaisem
 
 Harvoin ripustellun kuvan lataaminen epäonnistuu, jolloin ruutuun tulee ilmoitus _"Avaaminen epäonnistui, aktivoi kuvaus sivupalkista"_.
 
-Tällöin kyseisessä kuvassa näkyy sivupalkissa häiriökuvake. Kuvauksen saa näkyviin klikkaamalla kuvausta sivupalkissa (muista painaa Control pohjaan, jos ole jo avannut muita kuvia!).
+Tällöin kyseisessä kuvassa näkyy sivupalkissa häiriökuvake. Kuvauksen saa näkyviin klikkaamalla kuvausta sivupalkissa (muista painaa Control-nappi pohjaan, jos olet jo avannut muita kuvia!).
 
 ![loading-failed](loading-failed.png)
