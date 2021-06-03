@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Käyttöopas
+title: Käyttäjän opas
 parent: Suomeksi
 nav_order: 1
 has_children: true
