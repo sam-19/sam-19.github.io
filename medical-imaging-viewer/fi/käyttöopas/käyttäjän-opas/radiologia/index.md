@@ -11,11 +11,11 @@ has_children: false
 * TOC
 {:toc}
 
-## 1. Yleistä
+## Yleistä
 
 Radiologian moduulilla on mahdollista tarkastella DICOM-muotoisia radiologisia kuvantamistutkimuksia. Tällä hetkellä yksittäisten natiivikuvien ja CT-kuvapakkojen tarkastelu toimii kohtalaisen hyvin. Myös magneettikuvien ja ultraäänitallenteiden katselu on  mahdollista, mutta niistä puuttuu modaliteettikohtaisia ominaisuuksia.
 
-## 2. Työkalurivi
+## Työkalurivi
 
 ![toolbar](toolbar.png)
 
@@ -45,7 +45,7 @@ Työkalupainikkeet vasemmalta oikealle lueteltuna:
 Sekä oikeassa ylänurkassa:
 - ![settings](cog.svg){:height="16px" width="16px"} _Asetukset:_ Koko näytön tila sekä radiologianäkymän asetukset ja yleiset asetukset.
 
-## 3. Sivupalkki
+## Sivupalkki
 
 Valitun käynnin tutkimukset aukeavat vasemmalle sivupalkkiin. Jos mahdollista, sivupalkkiin aukeaa myös esikatselukuva itse tutkimuksesta. Sivupalkin toiminta on suunniteltu vastaamaan mahdollisimman läheisesti yleistä tiedostojärjestelmän toimintaa:
 - Jos yhtään tutkimusta ei vielä ole auki, tutkimuksen klikkaaminen avaa sen katselunäkymään.
