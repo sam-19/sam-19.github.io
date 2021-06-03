@@ -1,5 +1,8 @@
 # Käyttäjän opas
 
+* TOC
+{:toc}
+
 Tämä on MEDigi-katselimen peruskäyttöopas, jossa neuvotaan sen käyttöä kuvantamistutkimusten tarkasteluun. Tällä sivulla kuvataan katselimen käytön perusteita. Moduulikohtaiset ohjeet löytyvät omilta sivuiltaan:
 - [Radiologia](radiologia/)
 - Kliininen fysiologia: [EKG](kliininen-fysiologia/ekg/)
