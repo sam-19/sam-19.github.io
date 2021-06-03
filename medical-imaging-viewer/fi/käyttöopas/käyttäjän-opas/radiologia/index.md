@@ -39,20 +39,17 @@ Sekä oikeassa ylänurkassa:
 
 ## 3. Sivupalkki
 
-![medigi-radiology-sidebar](uploads/1a2c715e865424061842463554e51aad/medigi-radiology-sidebar.png)
-
 Valitun käynnin tutkimukset aukeavat vasemmalle sivupalkkiin. Jos mahdollista, sivupalkkiin aukeaa myös esikatselukuva itse tutkimuksesta. Tutkimuksen klikkaaminen avaa sen katselunäkymään; toisen tutkimuksen klikkaaminen sulkee edellisen ja avaa klikatun tutkimuksen.
 
-![medigi-radiology-single-image](uploads/bafa2753d955194f8715f19a177e3a26/medigi-radiology-single-image.png)
+![single-image](single-image.png){:height="480px"}
 
 Jos uutta tutkimusta klikataan Control-nappi pohjassa, aukeaa klikattu tutkimus edellisen rinnalle. Jos tutkimusta klikataa Shift-nappi pohjassa, aukeavat myös kaikki aktiivisen ja klikatun tutkimuksen väliin jäävät tutkimuset.
 
-![medigi-radiology-multiple-images](uploads/281431f09df62193a5a2ae7fbc6ff67a/medigi-radiology-multiple-images.png)
+![multiple-images](multiple-images.png){:height="480px"}
 
 Tutkimusten avautumisjärjestystä on mahdollista vaihtaa muuttamalla niiden järjestystä sivupalkissa (raahaamalla kuvakkeita ylös tai alas). Vaihtoehtoisesti kuvat on mahdollista sijoitella ripustelunäkymässä manuaalisesti valmiiseen ruudukkoon raahaamalla ne haluttuun ruutuun.
 
-![medigi-radiology-drag-image](uploads/9ce07ac6cb28d4248b42fb3d0c16fb42/medigi-radiology-drag-image.png)
-![medigi-radiology-drop-image](uploads/e85ff280dfd663470d06037899ea7c89/medigi-radiology-drop-image.png)
+![drag-image](drag-image.png){:height="480px"}
 
 Harvoin ripustellun kuvan lataaminen epäonnistuu, jolloin ruutuun tulee seuraava ilmoitus:
 
