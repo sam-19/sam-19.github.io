@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Käyttäjä
-parent: Käyttöopas
+title: Käyttäjän opas
+parent: Suomeksi
+grand_parent: Medical Imaging Study Viewer
 nav_order: 1
 has_children: false
 ---
