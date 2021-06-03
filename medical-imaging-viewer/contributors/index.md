@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contributors
+parent: Medical Imaging Study Viewer
 nav_order: 5
 has_children: false
 ---
