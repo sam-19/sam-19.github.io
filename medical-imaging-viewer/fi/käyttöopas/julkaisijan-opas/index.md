@@ -3,7 +3,7 @@
 * TOC
 {:toc}
 
-## Julkaisumahdollisuudet
+## Edellytykset kuvantamisten katseluun ohjelmalla
 
 Tutkimuksia näyttääkseen katselinohjelma tarvitsee tietoonsa osoitteet, joista kuvantamistiedostot löytyvät. Nämä osoitteet ovat yleensä www-osoitteita, mutta ohjelma pystyy avaamaan tiestoja tiedostojärjestelmäosoitteista käyttäjän kovalevyltä, jos tiedostot on joko erikseen avattu tai suoraan raahattu ojelmaan. Yksittäiset tiedostot aukeavat pelkän osoitteen avulla, mutta monimutkaisemmat tutkimukset (kuten kuvapakat) ja tutkimuskokonaisuudet vaativat tietyllä tavalla organisoidun tiedostojärjestelmärakenteen.
 
