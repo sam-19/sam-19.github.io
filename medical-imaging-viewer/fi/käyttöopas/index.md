@@ -1,3 +1,11 @@
+---
+layout: default
+title: Käyttöopas
+parent: Suomeksi
+nav_order: 1
+has_children: true
+---
+
 # Käyttöopas
 
 Käyttöopas on jaettu kolmeen osaan. Samoja asioita ei ole toistettu, eli esim. kehittäjien tulisi perehtyä myös käyttäjän ja julkaisijan oppaisiin olennaisin osin.
