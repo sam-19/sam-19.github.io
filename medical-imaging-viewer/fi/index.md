@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Suomeksi
+parent: Medical Imaging Study Viewer
 nav_order: 2
 has_children: true
 ---
