@@ -1,3 +1,11 @@
+---
+layout: default
+title: Käyttöopas
+parent: Suomeksi
+nav_order: 1
+has_children: true
+---
+
 <h1>Käyttäjän opas</h1>
 
 * TOC
