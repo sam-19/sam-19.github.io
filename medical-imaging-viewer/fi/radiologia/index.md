@@ -1,3 +1,8 @@
+# Radiologia
+
+* TOC
+{:toc}
+
 ## 1. Esittely
 
 Radiologisten kuvien moduulilla on mahdollista tarkastella suoraan DICOM-muotoon tallennettuja kuvatiedostoja. Moduuli tukee sekä yksittäisiä kuvia että useiden kuvien sarjoja (kuvapakkoja). Katselinmoduuli tarjoaa myös perustyökalut kuvien manipulointiin, kuten ikkunoinnin säätämiseen, sekä erilaisten perusmittausten tekemiseen.
