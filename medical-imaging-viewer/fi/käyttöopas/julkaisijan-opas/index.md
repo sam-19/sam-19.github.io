@@ -103,4 +103,4 @@ Jos samaan tutkimuskokonaisuuteen haluttaisiin liittää vielä pudotusvalikosta
 ## Tutkimusten lataaminen
 
 Yksikertaisin tapa tutkimusten lataamiseen ohjelmaan, on raahata ne kovalevyltä (joko yksittäin tai edellä kuvattuna tiedostojärjestelmänä) ohjelma vasempaan sivupakkiin. Verkosta ladattaessa ohjelmalle on ilmoitettava tutkimuskokonaisuuden tiesotojärjestelmärakenne, sekä mistä osoitteesta jokainen yksittäinen kuvatiedosto löytyy. Tällainen _konfiguraatiotiedosto_ on mahdollista kirjoittaa myös käsin, mutta se voi olla varsin työlästä erityisesti kuvapakkoja sisältävien tutkimusten tapauksessa. Siksi ohjelmalle on laadittu ja edelleen kehitetään muissa verkkoympäristöissä käytettäviä lisäosia, jotka helpottavat tätä prosessia. Näille lisäosille on olemassa omat ohjeensa:
-- Moodlen ATTO-tekstinkäsittijän lisäsosa
+- Moodlen ATTO-tekstinkäsittelijän lisäsosa
