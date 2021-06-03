@@ -1,8 +1,11 @@
-# Contributors and external resources
+<h1>Contributors and external resources</h1>
+
+* TOC
+{:toc}
 
 ## Funding
 
-Development of the app has been funded by Finnish national [MEDigi initiative](https://www.medigi.fi/).
+Development of this software has been funded by Finnish national [MEDigi initiative](https://www.medigi.fi/).
 
 ## Main developer
 - 2020-2021 Sampsa Lohi ([GitHub](https://github.com/sam-19))
@@ -13,7 +16,7 @@ Development of the app has been funded by Finnish national [MEDigi initiative](h
 
 ## External libraries and resources
 
-Development of this app would not have been possible without numerous open source javascript libraries and the tremendous contributions of their developers. The most important external libraries used in this project are:
+Development of this software would not have been possible without numerous open source javascript libraries and the tremendous contributions of their developers. The most important external libraries used in this project are:
 - [Vue.js](https://vuejs.org) 
 - [Cornerstone.js](https://cornerstonejs.org/) and its submodules
   - CornerstoneMath
@@ -23,4 +26,4 @@ Development of this app would not have been possible without numerous open sourc
 - [Hammer.js](https://hammerjs.github.io/) (as a dependency of Cornerstone.js)
 - [Plotly.js](https://plotly.com/javascript/)
 
-[FontAwesome](https://fontawesome.com/) SVG-icons are extensively used in the app and also in some parts of these docs. Because the app leverages my license of FontAwesome Pro, _you cannot build the app unless you have access to FontAwesome Pro!_ We are working on a solution to this problem.
+[FontAwesome](https://fontawesome.com/) SVG-icons are extensively used in the software and also in some parts of these docs. Not having a graphical designer designer in the project I have been forced to use my personal license of FontAwesome Pro, which means _you cannot build the app unless you have access to FontAwesome Pro!_ This is regrettable and we are working on a solution to this problem.
