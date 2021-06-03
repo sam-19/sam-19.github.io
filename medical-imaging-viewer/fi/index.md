@@ -1,3 +1,10 @@
+---
+layout: default
+title: Suomeksi
+nav_order: 2
+has_children: true
+---
+
 <h1>Lääketieteellisten kuvantamistutkimusten katselin</h1>
 
 * TOC
