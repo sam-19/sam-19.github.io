@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Käyttäjän opas
-parent: Suomeksi
+title: Käyttäjä
+parent: Käyttöopas
 nav_order: 1
-has_children: true
+has_children: false
 ---
 
 <h1>Käyttäjän opas</h1>
