@@ -1,3 +1,10 @@
+---
+layout: default
+title: License
+nav_order: 3
+has_children: false
+---
+
 # License
 
 The software is released under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
