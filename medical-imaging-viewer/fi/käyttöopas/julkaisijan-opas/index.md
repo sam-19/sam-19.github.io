@@ -24,7 +24,7 @@ Teidostojärjestelmän huolellinen suunnittelu on tärkeää! Jos yllä kuvattuu
 - Jos jompaan kumpaan käyntikansioon lisätään ylimääräisä tiedostoja, jätetään ne huomioimatta.
 - Jos jomman kumman tutkimuskansion sisälle lisätään ylimääräinen kansio, jätetään koko se tutkimuskansio huomioimatta.
 
-Yksittäisillä sisäkkäisillä kansioilla ei ole väliä, ohjelma "romahduttaa" yksittäiset sisäkkäiset kansiot yhteen ja huomioi vain viimeisen kansion. Jos esimerkiksi edellä mainittu tutkimuskokonaisuus olisi useamman _yksittäisen sisäkkäisen_ kansion sisällä, ladattaisiin se samalla tavalla kuin edellä:
+_Yksittäisillä sisäkkäisillä_ kansioilla ei ole väliä, ohjelma "romahduttaa" nämä yhteen ja huomioi vain viimeisen kansion. Jos esimerkiksi edellä mainittu tutkimuskokonaisuus olisi laadittu seuraavalla tavalla, tulkitsisi samaan tapaan kuin edelläkin:
 ```
 📁 Jokukansio 1
    📁 Jokukansio 2
@@ -35,7 +35,7 @@ Yksittäisillä sisäkkäisillä kansioilla ei ole väliä, ohjelma "romahduttaa
          📁 Käynti #2
              - ...
 ```
-Sama pätee sisäkansioihin, eli tutkimuskokonaisuuden lataamiseen ei vaikuta jos yksittäisiä tutkimuksia on sisäkkäisten kansioiden alla:
+Sama pätee myös alempiin kansioihin, eli tutkimuskokonaisuuden lataamiseen ei vaikuta, jos yksittäisiä tutkimuksia on sisäkkäisten kansioiden alla:
 ```
 📁 Käynti #1
    📁 Jokukansio 1
@@ -43,6 +43,8 @@ Sama pätee sisäkansioihin, eli tutkimuskokonaisuuden lataamiseen ei vaikuta jo
          📁 Jokukansio 3
             📁 Tutkimus #1
                - kuvantamistiedostot
+   📁 Tutkimus #2
+      - kuvantamistiedostot
 ```
 
 #### Havainnollistavia esimerkkejä
@@ -73,7 +75,7 @@ Vartalon CT-kuvaus, jossa kolme projektiota
 ```
 Nämä tutkimukset ohjelma tulkitsisi siten, että pudotusvalikon käynnin nimeksi tulisi ylimmän hakemiston nimi (joko `Thorax-rtg` tai `Vartalon CT`), ja sivupalkissa näkyvien tutkimusten nimiksi tulisi projektiot sisältävien kansioiden nimet (esim. `Thorax ap-projektio`, `Vartalon CT aksiaali` jne.). Itse kuvatiedostojen nimet eivät tulisi ohjelmassa lainkaan näkyviin. Ohjelma lähtökohtaisesti pyrkii käyttämään kansioiden nimiä käyntien ja tutkimusten niminä, mutta jos ladataan vain yksittäinen tiedosto, niin silloin tiedoston nimestä tulee tutkimuksen nimi ja pudotusvalikkoon käynnin nimeksi tulee geneerinen Käynti `Käynti #1`.
 
-Jos käynnillä on useampia eri modaliteetin tutkimuksia, ei näitä tarvitse jaotella omiin hakemistoihinsa; ohjelma tunnistaa modaliteetit automaattisesti:
+Vaikka käynnillä on useampia eri modaliteetin tutkimuksia, laitetaan ne silti rinnakkain tutkimuskansion alle; ohjelma tunnistaa modaliteetit automaattisesti ja rymittelee tutkimukset niiden mukaan:
 ```
 📁 Päivystyskäynti
    📁 Lepo-EKG
