@@ -1,3 +1,5 @@
+# License
+
 The software is released under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
 
 ```
