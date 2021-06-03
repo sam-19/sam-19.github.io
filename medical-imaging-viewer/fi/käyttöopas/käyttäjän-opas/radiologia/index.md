@@ -16,7 +16,7 @@ Työkalurivin painikkeet eivät ole käytettävissä, ennen kuin jokin kuvantami
 Työkalupainikkeet vasemmalta oikealle lueteltuna:
 - ![medigi-tool-pan](uploads/dfe08ba40eac2357dc8ba6a0c6078986/medigi-tool-pan.png) _Liikuttelutyökalu:_ Liikuttaa kuvaa pysty- ja vaakasuunnassa.
 - ![medigi-tool-zoom](uploads/177fa38b49ba7e91767ada364534ec05/medigi-tool-zoom.png) _Suurennuslasi:_ Liikuttaa kuvaa syvyyssuunnassa, ts. lähentää ja loitontaa sitä.
-- ![medigi-tool-scroll](uploads/f14ff214bbbd541c98d0d4d150fd6de8/medigi-tool-scroll.png) _Pakan selaus:_ Selaa kuvapakkaa, ts. näyttää järjestyksessä pakan seuraavan tai edellisen kuvan (toimii ainoastaan kuvapakoilla).
+- ![scroll](scroll.svg) _Pakan selaus:_ Selaa kuvapakkaa, ts. näyttää järjestyksessä pakan seuraavan tai edellisen kuvan (toimii ainoastaan kuvapakoilla).
 - ![medigi-tool-crosshairs](uploads/4c3853be3440e445757221de4ec5bf8c/medigi-tool-crosshairs.png) _Pakan kohdennus:_ Kohdentaa samasta kuvauksesta saatujen kuvapakkojen leikkeet samaan anatomiseen kohtaan (toimii ainoastaan kuvapakoilla).
 - ![medigi-tool-orientation](uploads/b961c8381b32706bc10277218d1e90a6/medigi-tool-orientation.png) _Kuvan suuntaus (työkaluryhmä):_
   - Kierrä vastapäivään.
