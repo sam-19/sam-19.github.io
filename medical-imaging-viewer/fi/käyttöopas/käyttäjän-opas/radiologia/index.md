@@ -15,7 +15,7 @@ Työkalurivin painikkeet eivät ole käytettävissä, ennen kuin jokin kuvantami
 
 Työkalupainikkeet vasemmalta oikealle lueteltuna:
 - ![pan](pan.svg){:height="16px" width="16px"} _Liikuttelutyökalu:_ Liikuttaa kuvaa pysty- ja vaakasuunnassa.
-- ![zoom](zoom.svg) _Suurennuslasi:_ Liikuttaa kuvaa syvyyssuunnassa, ts. lähentää ja loitontaa sitä.
+- ![zoom](zoom.svg){:height="16px" width="16px"} _Suurennuslasi:_ Liikuttaa kuvaa syvyyssuunnassa, ts. lähentää ja loitontaa sitä.
 - ![scroll](scroll.svg){:height="16px" width="16px"} _Pakan selaus:_ Selaa kuvapakkaa, ts. näyttää järjestyksessä pakan seuraavan tai edellisen kuvan (toimii ainoastaan kuvapakoilla).
 - ![crosshairs](crosshairs.svg){:height="16px" width="16px"} _Pakan kohdennus:_ Kohdentaa samasta kuvauksesta saatujen kuvapakkojen leikkeet samaan anatomiseen kohtaan (toimii ainoastaan kuvapakoilla).
 - ![orientation](orientation.svg){:height="16px" width="16px"} _Kuvan suuntaus (työkaluryhmä):_
@@ -27,7 +27,7 @@ Työkalupainikkeet vasemmalta oikealle lueteltuna:
   - Välimatkan mittaus.
   - Pinta-alan mittaus (sisältää myös HU-arvon)
 - ![invert](invert.svg){:height="16px" width="16px"} _Käänteinen ikkunointi:_ Kääntää kuvan ikkunoinnin päinvastaiseksi (ns. invertoi kuvan).
-- _Ikkunoinnin säätäminen:_ Säätää kuvan ikkunointia hiiren liikkeiden mukaisesti.
+- ![adjust](adjust.svg){:height="16px" width="16px"} _Ikkunoinnin säätäminen:_ Säätää kuvan ikkunointia hiiren liikkeiden mukaisesti.
 - ![layout](layout.svg){:height="16px" width="16px"} _Asettelutyökalut (työkaluryhmä):_
   - Automaattinen asettelu.
   - 2x2 ripustelu (manuaalinen asettelu).
