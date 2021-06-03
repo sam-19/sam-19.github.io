@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Disclaimer
+parent: Medical Imaging Study Viewer
 nav_order: 4
 has_children: false
 ---
