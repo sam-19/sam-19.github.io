@@ -1,5 +1,7 @@
 # Radiologia
 
+* TOC {:toc}
+
 ## 1. Yleistä
 
 Radiologian moduulilla on mahdollista tarkastella DICOM-muotoisia radiologisia kuvantamistutkimuksia. Tällä hetkellä yksittäisten natiivikuvien ja CT-kuvapakkojen tarkastelu toimii kohtalaisen hyvin. Myös magneettikuvien ja ultraäänitallenteiden katselu on  mahdollista, mutta niistä puuttuu modaliteettikohtaisia ominaisuuksia.
