@@ -1,3 +1,5 @@
+# Lääketieteellisten kuvantamistutkimusten katselin
+
 ## 1. Esittely
 
 [MEDigi-hanke](https://www.medigi.fi/) on valtakunnallinen lääketieteen alojen koulutuksen digitalisointiin, harmonisointiin ja modernisointiin tähtäävä projekti. Tämä lääketieteellisten kuvantamistutkimusten web-katselinsovellus on yksi osa MEDigi-hankkeen kuvantamisalojen kokonaisuutta. Itä-Suomen yliopisto koordinoi kuvantamisalojen osuutta hankkeessa.
@@ -21,3 +23,7 @@ Web-katselin on jaettu erillisiin moduuleihin, jotka kukin vastaavat tietyn tyyp
 | 2.1 [Radiologia](radiologia/) |  2.1.1 Natiiviröntgenkuvat <br /> 2.1.2 CT-kuvat <br /> 2.1.3 Magneettikuvat <br /> 2.1.4 Ultraääni | Koekäytössä <br /> Koekäytössä <br /> Testausvaiheessa <br /> Kehittelyvaiheessa |
 | 2.2 [Kliininen fysiologia](kliininen-fysiologia/) |  2.2.1 Lepo-EKG | Kehittelyvaiheessa |
 | 2.3 [Kliininen neurofysiologia](kliininen-neurofysiologia/) |  2.3.1 Polikliininen EEG <br /> 2.3.2 Suppea yöpolygrafia | Kehittelyvaiheessa <br /> Suunnitteluvaiheessa |
+
+## 3. Käyttöopas
+
+Käyttöpas löytyy [täältä](käyttöpas/). Katselimen [käyttäjille](käyttöopas/käyttäjän-opas) ja materiaalin [julkaisijoille](käyttöopas/julkaisijan-opas/) on omat oppaansa.
