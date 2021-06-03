@@ -24,7 +24,7 @@ Teidostojärjestelmän huolellinen suunnittelu on tärkeää! Jos yllä kuvattuu
 - Jos jompaan kumpaan käyntikansioon lisätään ylimääräisä tiedostoja, jätetään ne huomioimatta.
 - Jos jomman kumman tutkimuskansion sisälle lisätään ylimääräinen kansio, jätetään koko se tutkimuskansio huomioimatta.
 
-_Yksittäisillä sisäkkäisillä_ kansioilla ei ole väliä, ohjelma "romahduttaa" nämä yhteen ja huomioi vain viimeisen kansion. Jos esimerkiksi edellä mainittu tutkimuskokonaisuus olisi laadittu seuraavalla tavalla, tulkitsisi samaan tapaan kuin edelläkin:
+_Yksittäisillä sisäkkäisillä_ kansioilla ei ole väliä, ohjelma "romahduttaa" nämä yhteen ja huomioi vain viimeisen kansion. Jos esimerkiksi edellä mainittu tutkimuskokonaisuus olisi laadittu seuraavalla tavalla, tulkittaisiin se samaan tapaan kuin edelläkin:
 ```
 📁 Jokukansio 1
    📁 Jokukansio 2
