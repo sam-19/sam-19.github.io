@@ -1,6 +1,7 @@
 ---
 layout: default
 title: License
+parent: Medical Imaging Study Viewer
 nav_order: 3
 has_children: false
 ---
