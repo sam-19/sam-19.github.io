@@ -5,6 +5,6 @@ This documentation is available in:
 - [Medical Imaging Study Viewer (English)](en/)
 
 See also:
-- [License](license.md)
-- [Disclaimer](disclaimer.md)
-- [Contributors](contributors.md)
+- [License](license/)
+- [Disclaimer](disclaimer/)
+- [Contributors](contributors/)
