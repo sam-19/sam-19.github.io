@@ -1,4 +1,4 @@
-## Medical Imaging Study Viewer
+## Medical Imaging Study Viewer documentation
 
 This documentation is available in:
 - [Lääketieteellisten kuvantamistutkimusten katselin (Finnish)](/fi/index.md)
