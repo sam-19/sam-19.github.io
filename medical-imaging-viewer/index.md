@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Medical Imaging Study Viewer
-nav_exclude: true
+has_children: true
 ---
 
 ## Medical Imaging Study Viewer documentation
