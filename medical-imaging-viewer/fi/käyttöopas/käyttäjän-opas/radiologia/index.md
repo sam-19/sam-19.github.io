@@ -35,7 +35,7 @@ Työkalupainikkeet vasemmalta oikealle lueteltuna:
 - ![reset](reset.svg){:height="16px" width="16px"} _Palauta alkuperäinen näkymä:_ Palauttaa kaikkien aktiivisten kuvien kuvanäkymät alkuperäiseen tilaansa, ts. kumoaa liikuttelu-, suurennuslasi- ja ikkunointityökaluilla tehdyt muutokset.
 
 Sekä oikeassa ylänurkassa:
-- _Asetukset:_ Koko näytön tila sekä radiologianäkymän asetukset ja yleiset asetukset.
+- ![settings](cog.svg){:height="16px" width="16px"} _Asetukset:_ Koko näytön tila sekä radiologianäkymän asetukset ja yleiset asetukset.
 
 ## 3. Sivupalkki
 
