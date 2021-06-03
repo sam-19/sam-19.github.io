@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Käyttöopas
-nav_exclude: true
+parent: Suomeksi
+nav_order: 1
+has_children: true
 ---
 
 # Käyttöopas
