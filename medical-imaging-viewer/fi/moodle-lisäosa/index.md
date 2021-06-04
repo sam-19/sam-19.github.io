@@ -46,3 +46,12 @@ Avaa lisäosan tiedostoselain sen painikkeesta (painikkeen ulkonäkö ja sijaint
 
 ![atto-plugin-browser](atto-plugin-browser.png)
 ![atto-plugin-select](atto-plugin-select.png)
+
+Osoiterivin oikeassa reunassa on kaksi painiketta, kopioi ja liitä (_copy_ ja _insert_). Kopioi-painike kopioi aina valitun tiedoston/kansion osoitteen ja siihen valmiiksi liitetyn tunnisteen perään. Tämä on mahdollista sitten lisätä linkkinä tekstinkäsittelijän normaalilla linkkityökalulla.
+
+Liitä-painikkeen toiminta riippuu siitä, mitä tekstinkäsittelyruudussa oli valittuna (maalattuna) kun hakemisto avattiin:
+- Jos valittuna oli tekstiä, lisätään tiedosto linkkinä valittuun tekstiin.
+- Jos valittuna oli aikaisempi linkki, päivitetään sen linkin osoite valittuun resurssiin.
+- Jos valittuna ei ollut mitään, lisätään linkki kursorin sijaintikohtaan ja linkin tekstiksi tulee tiedoston osoite.
+
+Kaikissa tapauksissa käyttäjälle kuitenkin aukeaa linkin sijaan sen kohteessa oleva tiedosto/tiedostojärjestelmä katselinsovelluksessa.
