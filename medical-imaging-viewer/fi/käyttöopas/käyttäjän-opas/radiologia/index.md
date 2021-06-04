@@ -24,7 +24,7 @@ Työkalurivin painikkeet eivät ole käytettävissä, ennen kuin jokin kuvantami
 
 Työkalupainikkeet vasemmalta oikealle lueteltuna:
 - ![pan](pan.svg){:height="16px" width="16px"} _Liikuttelutyökalu:_ Liikuttaa kuvaa pysty- ja vaakasuunnassa.
-- ![zoom](zoom.svg){:height="16px" width="16px"} _Suurennuslasi:_ Liikuttaa kuvaa syvyyssuunnassa, ts. lähentää ja loitontaa sitä.
+- ![zoom](zoom.svg){:height="16px" width="16px"} _Suurennuslasi:_ Liikuttaa kuvaa syvyyssuunnassa, ts. lähentää tai loitontaa sitä.
 - ![scroll](scroll.svg){:height="16px" width="16px"} _Pakan selaus:_ Selaa kuvapakkaa, ts. näyttää järjestyksessä pakan seuraavan tai edellisen kuvan (toimii ainoastaan kuvapakoilla).
 - ![crosshairs](crosshairs.svg){:height="16px" width="16px"} _Pakan kohdennus:_ Kohdentaa samasta kuvauksesta saatujen kuvapakkojen leikkeet samaan anatomiseen kohtaan (toimii ainoastaan kuvapakoilla).
 - ![orientation](orientation.svg){:height="16px" width="16px"} _Kuvan suuntaus (työkaluryhmä):_
@@ -45,6 +45,12 @@ Työkalupainikkeet vasemmalta oikealle lueteltuna:
 
 Sekä oikeassa ylänurkassa:
 - ![settings](cog.svg){:height="16px" width="16px"} _Asetukset:_ Koko näytön tila sekä radiologianäkymän asetukset ja yleiset asetukset.
+
+Seuraavat työkalut ovat käytössä oletuksena silloin, kun mikään yksittäinen työkalu ei ole valittuna:
+- Hiiren vasen nappi: Liikuttelu
+- Hiiren oikea nappi: Ikkunoinnin säätö
+- Hiiren keskimmäinen nappi: Lähennys/loitonnus
+- Hiiren rulla: Pakan selaus
 
 ## Sivupalkki
 
