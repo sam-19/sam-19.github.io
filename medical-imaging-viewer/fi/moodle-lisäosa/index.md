@@ -41,3 +41,8 @@ Moodlen linkkausominaisuus ei ikävä kyllä tue kansioiden linkkaamista, mikä 
 ### Linkin lisääminen Atto-pluginia käyttäen
 
 Moodlen Atto-tekstinkäsittelijään on saatavilla lisäosa, joka helpottaa paitsi tiedostojen, erityisesti kansioiden linkkaamista.
+
+Avaa lisäosan tiedostoselain sen painikkeesta (painikkeen ulkonäkö ja sijainti voi vaihdella Moodle-ympäristöstä riippuen). Paikallinen tiedostoalue aukeaa näkyviin. Kansion tai tiedoston nimen klikkaaminen valitsee sen ylärivin osoitekenttään. Tuplaklikkaaminen lisäksi avaa tai sulkee kansion.
+
+![atto-plugin-browser](atto-plugin-browser.png)
+![atto-plugin-select](atto-plugin-select.png)
