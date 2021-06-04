@@ -55,3 +55,9 @@ Liitä-painikkeen toiminta riippuu siitä, mitä tekstinkäsittelyruudussa oli v
 - Jos valittuna ei ollut mitään, lisätään linkki kursorin sijaintikohtaan ja linkin tekstiksi tulee tiedoston osoite.
 
 Kaikissa tapauksissa käyttäjälle kuitenkin aukeaa linkin sijaan sen kohteessa oleva tiedosto/tiedostojärjestelmä katselinsovelluksessa.
+
+## Huomioita ja tunnettuja ongelmia
+
+Joskus sisältöä muokkaustilassa selattaessa ei oikeassa ylänurkassa oleva valikko (_Actions menu_) aukea, jos samalla sivulla on selainsovellus. Sivu on ladattava uudestaan, jotta valikon saa avattua.
+
+Tiedostoalueen tiedostoja Moodlen omalla selaimella tarkasteltaessa saattaa näkyä lukuisia ilmoituksia käyttämättömistä tiedostoista (erityisesti jos alueelle on tallennettu kuvapakkoja). Tämä ei haittaa; kuvankatselin osaa kyllä löytää nämä tiedostot, vaikka niitä ei olekaan suoraan linkitetty tekstiin.
