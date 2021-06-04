@@ -33,3 +33,11 @@ Avaa lisätyökalut vasemmassa ylänurkassa olevasta nuolesta ja aktivoi HTML-mu
 ![atto-editor-html](atto-editor-html.png)
 
 Muokkaajalle linkki näkyy edelleen linkkinä, mutta Moodlen käyttäjälle latautuu katselinsovellus linkin tilalle. Linkattu tiedosto avautuu katselimeen automaattisesti.
+
+Moodlen linkkausominaisuus ei ikävä kyllä tue kansioiden linkkaamista, mikä tekee niiden manuaalisesta lisäämisestä aavistuksen haastavampaa. Jos edellisen esimerkin tiesoto olisi ollut kansiossa `/Esimerkkikuvaus/somedicom.dcm` ja tarkoituksena olisi linkata koko kansio, olisi linkki pitänyt tehdä ensin itse tiedostoon ja tunnistetta lisättäessä poistaa tiedoston nimi, jolloin lopullinen href-kenttä olisi ollut `https://.../Esimerkkikuvaus/:medimg-resource`.
+
+![atto-editor-dir](atto-editor-dir.png)
+
+### Linkin lisääminen Atto-pluginia käyttäen
+
+Moodlen Atto-tekstinkäsittelijään on saatavilla lisäosa, joka helpottaa paitsi tiedostojen, erityisesti kansioiden linkkaamista.
