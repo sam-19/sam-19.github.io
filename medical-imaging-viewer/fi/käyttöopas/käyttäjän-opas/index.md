@@ -25,7 +25,7 @@ Katselin on javascript-sovellus, jonka käyttöön tarvitaan moderni, javascript
 
 Käyttöympäristöstä riippuen katselin aukeaa automaattisesti jonkin moduulin oletusnäkymään. Alla kuvassa näkyy radiologisten kuvien katselunäkymä:
 
-![medigi-viewer-start-screen-fi](uploads/8797a3866969c65bb0251c59380132ae/medigi-viewer-start-screen-fi.png)
+![Aloitusnäyttö](./start-screen.png)
 
 Vasemmalla yläkulmassa näkyy pudotusvalikko, josta voi valita ladattuja kuvantamistutkimuksia. Pudotusvalikon reunassa olevasta nuolesta valikon voi pienentää katselimen sivuun, jolloin itse tutkimukselle jää enemmän tilaa.
 
@@ -33,7 +33,7 @@ Vasemmalla yläkulmassa näkyvästä hammasratas-napista aukeaa asetusvalikko. A
 
 ## Yleisasetukset
 
-![medigi-viewer-settings-screen-fi](uploads/c328aeb35d3100ff5c11c621083badf2/medigi-viewer-settings-screen-fi.png)
+![Asetusikkuna](./asetukset.png)
 
 Kieliasetuksista voi valita käyttöliittymän kielen. Mittayksiköitä ei tällä hetkellä voi itse valita, vaan ne ovat aina metrijärjestelmän yksiköitä.
 
@@ -49,7 +49,7 @@ Näyttöasetuksista voit säätää käyttämäsi näytön PPI-arvoa (Pixels Per
 
 Ladatut tutkimukset löytyvät omien käyntiensä alta käyntivalikosta vasemmasta yläreunasta. Valikko aukeaa ja sulkeutuu klikkaamalla (tai hiiren pois viemällä). Tutkimukset on jaoteltu tutkimustyyppien mukaisesti:
 
-![medigi-dropdown-fi](uploads/9fd240d01a67ad3bc8efd4bbdd3d2dd8/medigi-dropdown-fi.png)
+![Käyntivalikko](kayntivalikko.png)
 
 Katselimen teema muuttuu tarpeen mukaan, kun valitaan uusi tutkimustyyppi.
 
