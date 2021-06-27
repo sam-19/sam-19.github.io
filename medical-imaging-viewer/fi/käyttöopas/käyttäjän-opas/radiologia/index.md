@@ -35,12 +35,13 @@ Työkalupainikkeet vasemmalta oikealle lueteltuna:
 - ![measure](measure.svg){:height="16px" width="16px"} _Mittaustyökalut (työkaluryhmä):_
   - Välimatkan mittaus.
   - Pinta-alan mittaus (sisältää myös HU-arvon).
-  - Janojen päissä ja piirretyn ympyrän reunoilla on pienet ympyrät, joista niitä on mahdollista jälkikäteenkin säätää. Klikkaamalla ympyrää oikealla hiiren napilla (tai tuplaklikkaamalla sitä) aukeaa valikko, josta mittaus on mahdollista poistaa. Valikosta on mahdollista myös asettaa välimatkamittaus referenssiksi, joilloin muiden välimatkamittausten valikoista näkee vertailuarvot referenssiin (kulma sekä välimatkan ero).
+  - Pirirettyjen janojen päissä ja ympyröiden reunoilla on pienet ympyrät, joista niitä on mahdollista jälkikäteenkin säätää. Klikkaamalla ympyrää oikealla hiiren napilla (tai tuplaklikkaamalla sitä) aukeaa valikko, josta mittaus on mahdollista poistaa. Valikosta on mahdollista myös asettaa välimatkamittaus referenssiksi, joilloin muiden välimatkamittausten valikoista näkee vertailuarvot referenssiin (kulma sekä välimatkan ero).
 - ![invert](invert.svg){:height="16px" width="16px"} _Käänteinen ikkunointi:_ Kääntää kuvan ikkunoinnin päinvastaiseksi (ns. invertoi kuvan).
 - ![adjust](adjust.svg){:height="16px" width="16px"} _Ikkunoinnin säätäminen:_ Säätää kuvan ikkunointia hiiren liikkeiden mukaisesti.
 - ![layout](layout.svg){:height="16px" width="16px"} _Asettelutyökalut (työkaluryhmä):_
   - Automaattinen asettelu.
   - 2x2 ripustelu (manuaalinen asettelu).
+  - Kuvien järjestystä on mahdollista muuttaa sivupalkissa raahaamalla niitä ylös tai alas; tällöin myös automaattisen asettelun kuvien järjestys muuttuu.
 - ![link](link.svg){:height="16px" width="16px"} _Kytke kaikki kuvapakat:_ Kytkee yhteen tai poistaa kytkennän kaikista auki olevista kuvapakoista.
 - ![reset](reset.svg){:height="16px" width="16px"} _Palauta alkuperäinen näkymä:_ Palauttaa kaikkien aktiivisten kuvien kuvanäkymät alkuperäiseen tilaansa, ts. kumoaa liikuttelu-, suurennuslasi- ja ikkunointityökaluilla tehdyt muutokset.
 
