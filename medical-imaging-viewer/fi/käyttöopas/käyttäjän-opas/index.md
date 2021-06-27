@@ -43,7 +43,7 @@ Näyttöasetuksista voit säätää käyttämäsi näytön PPI-arvoa (Pixels Per
 
 ## Tiedostojen avaaminen
 
-...
+Sovelluksessa on mahdollista avata tiedostoja sekä kansioita raahamalla ne vasemmalla näkyvään sivupalkkiin. Moodle-sovelluksessa tämä ominaisuus on kuitenkin poistettu käytöstä.
 
 ## Käyntivalikko
 
