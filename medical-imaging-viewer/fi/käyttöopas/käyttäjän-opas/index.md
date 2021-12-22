@@ -14,8 +14,6 @@ has_children: true
 
 Tämä on MEDigi-katselimen peruskäyttöopas, jossa neuvotaan sen käyttöä kuvantamistutkimusten tarkasteluun. Tällä sivulla kuvataan katselimen käytön perusteita. Moduulikohtaiset ohjeet löytyvät omilta sivuiltaan:
 - [Radiologia](radiologia/)
-- Kliininen fysiologia: [EKG](kliininen-fysiologia/ekg/) (ei vielä julkaistu)
-- Kliininen neurofysiologia: [EEG](kliininen-neurofysiologia/eeg/) (ei vielä julkaistu)
 
 [Julkaisijan opas](../julkaisijan-opas) ja [kehittäjän opas](/medical-imaging-viewer/en/developer-guide) löytyvät omista osioistaan.
 
