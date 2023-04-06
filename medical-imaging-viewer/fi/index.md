@@ -21,7 +21,7 @@ Web-katselimen ominaisuudet on pyritty kehittämään vastaamaan toiminnaltaan m
 
 ## Web-katselimen ominaisuudet
 
-Katselimella on mahdollista selata natiiviröntgenkuvia, röntgenkuvapakko (kuten CT), sekä MRI-kuvasarjoja.
+Katselimella on mahdollista selata natiiviröntgenkuvia, röntgenkuvapakkoja (kuten CT), sekä MRI-kuvasarjoja.
 
 ## Käyttöopas
 
